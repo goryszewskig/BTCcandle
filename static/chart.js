@@ -27,8 +27,8 @@ var chart = LightweightCharts.createChart(document.getElementById("chart"), {
 });
 
 var candleSeries = chart.addCandlestickSeries({
-  upColor: "#00ff00",
-  downColor: "#ff0000",
+  upColor: "#26a69a",
+  downColor: "#ef5350",
   borderDownColor: "rgba(255, 144, 0, 1)",
   borderUpColor: "rgba(255, 144, 0, 1)",
   wickDownColor: "rgba(255, 144, 0, 1)",
